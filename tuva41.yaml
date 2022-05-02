@@ -1,0 +1,10 @@
+id: Tuva-test-4-1
+transcriptome: ../humanref/refdata-gex-GRCh38-2020-A
+fastqs: GCF0608
+sample: Tuva-test-4-1
+image: 'visium/Visium slide 01/Frames slide 1/Visium Slide 01 - Frame 1/DigitalSlide01_Resized3.tif'
+slide: V11M15-314
+area: A1
+probe: ../humanref/Visium_Human_Transcriptome_Probe_Set_v1.0_GRCh38-2020-A.csv
+params: ''
+
